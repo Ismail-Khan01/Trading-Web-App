@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.price-text{
+  font-size: 0.6rem;
+}
+.signup-btn{
+  font-size: 1.4rem;
+}
+ul a{
+  text-decoration: none;
+}
+.footer-info{
+  font-size: 0.6rem;
+}
