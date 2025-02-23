@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Brokerage() {
+export default function ProductPage() {
     return (
         <div>
-
+            Products
         </div>
     )
 }
